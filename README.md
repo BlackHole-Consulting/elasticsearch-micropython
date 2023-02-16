@@ -8,7 +8,7 @@ A simple elasticsearch opensearch micropython requests library
 
 ```Python
 
-import requests
+import opensearch
 
 authtoken = "YOUR AUTH TOKEN"
 
