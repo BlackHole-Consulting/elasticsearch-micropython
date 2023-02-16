@@ -1,5 +1,5 @@
 # elasticsearch-micropython
-A simple elasticsearch opensearch micropython requests library
+A simple elasticsearch opensearch micropython requests library with tls support 
 
 
 ## Usage
